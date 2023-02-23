@@ -15,7 +15,7 @@ To solve this problem, I designated the first guest to be the leader. The algori
       
       If the cake is there:
           
-          The leader increments their count (starting at 0) and eats the cake. Once the count reaches the number of guests - 1, the leader can be sure that             all guests have visited the room.
+          The leader increments their count (starting at 0) and eats the cake. Once the count reaches the number of guests - 1, the leader can be sure that all guests have visited the room.
       
       If the cake is eaten:
           
