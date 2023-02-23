@@ -7,9 +7,13 @@ To solve this problem, I designated the first guest to be the leader. The algori
   
   If any guest apart from the leader enters the cake room:
       
-      If the cake is eaten and the guest has not asked for a cake before, the guest will request the cake to be replaced.
+      If the cake is eaten and the guest has not asked for a cake before:
+          
+          The guest will request the cake to be replaced.
       
-      Otherwise, if the cake is already there, the guest will do nothing.
+      Otherwise if the cake is already there:
+          
+          The guest will do nothing.
   
   If the leader enters the room:
       
