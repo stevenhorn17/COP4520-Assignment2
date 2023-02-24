@@ -33,3 +33,4 @@ I believe the guests should choose to implement the 2nd strategy. Its advantages
 
 Disadvantages for the second strategy include guests only being able to get in if the timing is just right for them. If the room is occupied and a guest wants to get in, they will have to try again at another time. Additionally, there is no order for guests waiting to get into the room, so a guest entering the room happens at random.
 
+For implementation, I chose to set the number of guests to 10.
