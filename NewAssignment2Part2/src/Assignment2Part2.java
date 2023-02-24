@@ -40,7 +40,7 @@ public class Assignment2Part2 {
                 Available = false;
                 try {
                     System.out.println("Guest " + (i + 1) + " in room");
-                    sleep(1200);
+                    sleep(500);
                     System.out.println("Guest leaving room");
                     Available = true;
 
@@ -52,10 +52,8 @@ public class Assignment2Part2 {
     }
 
     public static void main(String[] args){
-        Scanner scnr = new Scanner(System.in);
-        System.out.println("How many guests?");
-        int numGuests = scnr.nextInt();
-        //boolean[] hasVisited = new boolean[numGuests];
+        System.out.println("Welcome 10 guests!");
+        int numGuests = 10;
         showroom Room = new showroom(numGuests);
 
         for (int i = 1; i <= numGuests; i++)
