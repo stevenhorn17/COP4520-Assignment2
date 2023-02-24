@@ -29,7 +29,7 @@ Once the leader's count reaches number of guest - 1, the guests can declare that
 
 To compile and run from the command line:
   
-  cd into src folder, run javac Assignment2Part1.java, then run java Assignment2Part1
+  cd into folder, cd into NewAssignment2Part1, then cd into src folder, run javac Assignment2Part1.java, then run java Assignment2Part1
 
 # Problem 2
 
@@ -41,4 +41,4 @@ For implementation, I chose to set the number of guests to 10, and after a certa
 
 To compile and run from the command line:
   
-  cd into src folder, run javac Assignment2Part2.java, then run java Assignment2Part2
+  cd into folder, cd into NewAssignment2Part2, then cd into src folder, run javac Assignment2Part2.java, then run java Assignment2Part2
